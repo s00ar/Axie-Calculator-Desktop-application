@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AxieCalculator</id>
+    <version>1.0.0</version>
+    <authors>leston.s.h@gmail.com</authors>
+    <icon>6783.png</icon>
+    <description>Programa para calcular y llevar control de becarios del juego Axie Infinity</description>
+    <copyright>Santiago Hernán Leston</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\bin\Release\netcoreapp3.1\AxieCalculator.runtimeconfig.json" target="lib\netcoreapp3.1\AxieCalculator.runtimeconfig.json" />
+    <file src="C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\bin\Release\netcoreapp3.1\AxieCalculator.dll" target="lib\netcoreapp3.1\AxieCalculator.dll" />
+    <file src="C:\Users\San\Desktop\AXIESCHOOLAR CALCULATOR\6783.png" target="6783.png" />
+  </files>
+</package>

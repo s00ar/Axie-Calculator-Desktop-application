@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WzKFE91tceeKzkHejN/7KWUb78v9C/70vEja2U9UhlxuScmPSyPU/1zZSn90fz2gsCnV5OI6zCHQ5n/En/ydKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\San\\source\\repos\\MyFirstWinForm\\MyFirstWinForm\\MyFirstWinForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\San\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.18\\microsoft.netcore.app.runtime.win-x86.3.1.18.nupkg.sha512",
+    "C:\\Users\\San\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.18\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.18.nupkg.sha512",
+    "C:\\Users\\San\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.18\\microsoft.aspnetcore.app.runtime.win-x86.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

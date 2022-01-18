@@ -1,0 +1,17 @@
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\bin\Debug\netcoreapp3.1\AxieCalculator.exe
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\bin\Debug\netcoreapp3.1\AxieCalculator.deps.json
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\bin\Debug\netcoreapp3.1\AxieCalculator.runtimeconfig.json
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\bin\Debug\netcoreapp3.1\AxieCalculator.runtimeconfig.dev.json
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\bin\Debug\netcoreapp3.1\AxieCalculator.dll
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\bin\Debug\netcoreapp3.1\AxieCalculator.pdb
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\obj\Debug\netcoreapp3.1\MyFirstWinForm.csproj.AssemblyReference.cache
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\obj\Debug\netcoreapp3.1\AxieCalculator.FormularioControl.resources
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\obj\Debug\netcoreapp3.1\AxieCalculator.Properties.Resources.resources
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\obj\Debug\netcoreapp3.1\MyFirstWinForm.csproj.GenerateResource.cache
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\obj\Debug\netcoreapp3.1\MyFirstWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\obj\Debug\netcoreapp3.1\MyFirstWinForm.AssemblyInfoInputs.cache
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\obj\Debug\netcoreapp3.1\MyFirstWinForm.AssemblyInfo.cs
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\obj\Debug\netcoreapp3.1\MyFirstWinForm.csproj.CoreCompileInputs.cache
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\obj\Debug\netcoreapp3.1\AxieCalculator.dll
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\obj\Debug\netcoreapp3.1\AxieCalculator.pdb
+C:\Users\San\source\repos\MyFirstWinForm\MyFirstWinForm\obj\Debug\netcoreapp3.1\MyFirstWinForm.genruntimeconfig.cache

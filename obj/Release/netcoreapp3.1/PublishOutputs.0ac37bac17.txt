@@ -1,0 +1,5 @@
+C:\Users\San\Desktop\AXIESCHOOLAR CALCULATOR\SOFTWARE\AxieCalculator.exe
+C:\Users\San\Desktop\AXIESCHOOLAR CALCULATOR\SOFTWARE\AxieCalculator.dll
+C:\Users\San\Desktop\AXIESCHOOLAR CALCULATOR\SOFTWARE\AxieCalculator.deps.json
+C:\Users\San\Desktop\AXIESCHOOLAR CALCULATOR\SOFTWARE\AxieCalculator.runtimeconfig.json
+C:\Users\San\Desktop\AXIESCHOOLAR CALCULATOR\SOFTWARE\AxieCalculator.pdb

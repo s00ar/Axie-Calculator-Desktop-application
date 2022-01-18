@@ -1,0 +1,10 @@
+Usuario: 
+Cuenta: 
+Ingreso logrado: 
+Ingreso mínimo diario: 
+Porcentaje: Seleccione
+Días jugados: 
+Promedio diario: 
+Situación: 
+SLP para el becario: 
+Diferencia de SLP: 
